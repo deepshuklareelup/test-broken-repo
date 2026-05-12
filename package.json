@@ -1,0 +1,11 @@
+{
+  "name": "test-broken-repo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A deliberately broken Node.js project for testing the GitHub Repo Fixer Agent.",
+  "scripts": {
+    "build": "node src/index.js",
+    "test": "node src/index.js"
+  },
+  "dependencies": {}
+}
